@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is the main page!
+This is the main page (2)!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
